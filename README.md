@@ -33,7 +33,7 @@ The project is live on Netlify, you can try out the different breakpoints 😉
 
 **Client :** HTML, SASS
 
-**Knowledge :** Media Queries, Grid, pseudo classes, Keyframes
+**Knowledge :** Media Queries, Grid, pseudo classes, Keyframes, Mixin
 ## Screenshots 📷
 
 ### Browser
